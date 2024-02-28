@@ -1,0 +1,1 @@
+let totalBatteries = 0;
